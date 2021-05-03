@@ -1,0 +1,61 @@
+.page-content {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+}
+.registration-form {
+  margin: auto;
+  width: 500px;
+  /*height: 600px;*/
+  background: ghostwhite;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Параметры тени */
+  padding: 20px;
+  font-family: monospace;
+  font-stretch: ultra-expanded;
+  user-select: none;
+}
+.field-row {
+  display: table-row;
+  /*margin: 15px;*/
+}
+
+.header-test {
+  font-weight: bold;
+  text-align: center;
+  font-size: 26px;
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+.example-form {
+  font-size: 16px;
+  margin: 10%;
+  width: 90%;
+}
+
+.example-full-width {
+  width: 85%;
+}
+
+.example-button-row {
+  margin-left: 50px;
+  margin-bottom: 30px;
+  display: inline-block;
+  width: auto;
+}
+
+button {
+  font-family: monospace;
+  width: 160px;
+  margin: 0 20px 0 20px ;
+}
+
+mat-form-field {
+  padding-right: 10px;
+  padding-left: 10px;
+  width: 45%;
+  font-family: monospace;
+}
+
+
+

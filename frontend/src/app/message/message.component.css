@@ -1,0 +1,8 @@
+.message {
+  text-align: center;
+  /*margin: auto;*/
+  font-family: monospace;
+  font-stretch: ultra-expanded;
+  user-select: none;
+  font-size: 16px;
+}
